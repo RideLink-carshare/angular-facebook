@@ -1,7 +1,7 @@
 {
   "name": "angular-facebook",
-  "version": "0.2.3",
-  "homepage": "https://github.com/Ciul/angularjs-facebook",
+  "version": "0.2.4",
+  "homepage": "https://github.com/RideLink-carshare/angularjs-facebook",
   "authors": [
     "Luis Carlos Osorio Jayk <luiscarlosjayk@gmail.com>"
   ],
@@ -22,7 +22,7 @@
     "tests"
   ],
   "devDependencies": {
-    "angular": ">=1.2.0 <=1.4",
-    "angular-mocks": ">=1.2.0 <=1.4"
+    "angular": ">=1.2.0 <1.6",
+    "angular-mocks": ">=1.2.0 <1.6"
   }
 }
